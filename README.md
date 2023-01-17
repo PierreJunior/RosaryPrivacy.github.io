@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
+
 	<h2>Privacy Policy</h2>
 <p>Last updated: January 17, 2023</p>
 <p>Kalani built the Rosary app as a Free app. This SERVICE is provided by Kalani at no cost and is intended for use as is.
@@ -52,5 +46,3 @@ This policy is effective as of 2023-01-17</h3>
 <ul>
 <li>By email: pierresangwa@gmail.com</li>
 </ul>
-</body>
-</html>
